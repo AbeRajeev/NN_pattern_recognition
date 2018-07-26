@@ -1,9 +1,9 @@
 # NN_pattern_recognition
 Image Recognition and Multi-class classification using Multi-variate regression and Neural Networks 
 
-Author: Abe (Abhijith Rajeev)
-Project dates: Dec 2016 - Jan 2017
-Libraries and Code references: Introduction to Machine Learning - Andrew Ng 
+Author: Abe (Abhijith Rajeev).
+Project dates: Dec 2016 - Jan 2017.
+Libraries and Code references: Introduction to Machine Learning - Andrew Ng. 
 
 ************ Project Overview ******************
 
